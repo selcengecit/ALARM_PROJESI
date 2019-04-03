@@ -1,0 +1,10 @@
+C:\Users\toshiba 1\source\repos\alarm\alarm\bin\Debug\alarm.exe.config
+C:\Users\toshiba 1\source\repos\alarm\alarm\bin\Debug\alarm.exe
+C:\Users\toshiba 1\source\repos\alarm\alarm\bin\Debug\alarm.pdb
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.csprojAssemblyReference.cache
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.csproj.GenerateResource.cache
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.csproj.CoreCompileInputs.cache
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.exe
+C:\Users\toshiba 1\source\repos\alarm\alarm\obj\Debug\alarm.pdb
